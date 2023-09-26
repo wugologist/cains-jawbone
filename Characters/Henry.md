@@ -41,3 +41,5 @@ tags:
 
 - Married at least 3 times and may have killed one or more wives:
 	- "That old aunt of his third wife had turned up again. Strangely enough a jellyfish had plugged the solution of her motor boat’s continuity. And there she was back again, alert, suspicious, very much alive." [[77]]
+- Killed #ThomasHardy 
+	- "Some Tom, not the one I killed in the matter of Jasmine, had done that, I gathered." [[46]]
