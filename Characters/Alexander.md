@@ -1,6 +1,7 @@
 ---
 tags:
   - Alexander
+  - Spoonerism
 ---
 
 # Narration
@@ -16,3 +17,4 @@ tags:
 - [[79]] - "It was that day my friend Sandy told me he was sure he wouldn’t sleep all night."
 # Notes
 - Young [[37]]
+- Uses lots of spoonerisms

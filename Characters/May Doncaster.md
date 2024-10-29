@@ -15,5 +15,5 @@ tags:
 - [[98]] - "I thought of May. May be. May be not"
 - [[100]] - "as flush—oh, you wicked woman—as May"
 # Notes
-- Native American? [[71]] [[3]]
+
 
